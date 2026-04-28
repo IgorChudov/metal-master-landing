@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Service } from "@/types"; // optional, we can inline
 
 const services = [
   { title: "Ангары", slug: "angary", description: "Быстровозводимые ангары из металлоконструкций." },
